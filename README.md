@@ -79,14 +79,14 @@ seperti yang telah dispesifikasikan. Aamiin. 
       - updateStatus : update status proker 
       
 2. Relasi antar kelas :
-    1. Sivitas is a Human. Mahasiswa dan Dosen is a Sivitas Akademik. Karena mahasiswa dan Dosen adalah sisvitas akademik dan berupa human
-    2. AnggotaBEM, AnggotaDPM, dan AsistenPraktikum is a Mahasiswa karena ketiga class tersebut pasti seorang Mahasiswa
-    3. BEM composite class AnggotaBEM dan ProkerBEM, karena BEM pasti punya list anggota dan list proker
-    4. AnggotaBEM composite class ProkerBEM, karena Anggota BEM dapa memiliki list proker yang diurusi atau di panitiai
-    5. DPM composite class AnggotaDPM, karena DPM pasti punya Anggota
-    6. AnggotaDPM composite class ProkerBEM, karena Anggota DPM dapat memiliki list proker yang di awasi
-    7. Asisten composite class MataKuliah, karena Asisten dapat memiliki list Mata Kuliah Praktikum yang di ajari
-    8. Dosen composite class MataKuliah, karena Dosen dapat memiliki list Mata Kuliah Praktikum yang di ajari
+  1. Sivitas is a Human. Mahasiswa dan Dosen is a Sivitas Akademik. Karena mahasiswa dan Dosen adalah sisvitas akademik dan berupa human
+  2. AnggotaBEM, AnggotaDPM, dan AsistenPraktikum is a Mahasiswa karena ketiga class tersebut pasti seorang Mahasiswa
+  3. BEM composite class AnggotaBEM dan ProkerBEM, karena BEM pasti punya list anggota dan list proker
+  4. AnggotaBEM composite class ProkerBEM, karena Anggota BEM dapa memiliki list proker yang diurusi atau di panitiai
+  5. DPM composite class AnggotaDPM, karena DPM pasti punya Anggota
+  6. AnggotaDPM composite class ProkerBEM, karena Anggota DPM dapat memiliki list proker yang di awasi
+  7. Asisten composite class MataKuliah, karena Asisten dapat memiliki list Mata Kuliah Praktikum yang di ajari
+  8. Dosen composite class MataKuliah, karena Dosen dapat memiliki list Mata Kuliah Praktikum yang di ajari
 
 ## Alur Program
   - Program ini memakai hardcode sebagai input nya.
@@ -105,16 +105,16 @@ seperti yang telah dispesifikasikan. Aamiin. 
     
 ## Dokumetasi Program
 - List Mahasiswa
-  <img width="239" alt="1" src="https://user-images.githubusercontent.com/100898963/226175671-5c9b1ea8-ae2c-47b8-a4a8-ce8010a79179.png">
+<img width="239" alt="1" src="https://user-images.githubusercontent.com/100898963/226175671-5c9b1ea8-ae2c-47b8-a4a8-ce8010a79179.png">
 
 
 - Dosen dan Asisten Praktikum & Interaksi Dosen dan Asprak
-  <img width="467" alt="2" src="https://user-images.githubusercontent.com/100898963/226175674-8d8f837d-a144-4232-b405-02e460a40ad6.png">
+<img width="467" alt="2" src="https://user-images.githubusercontent.com/100898963/226175674-8d8f837d-a144-4232-b405-02e460a40ad6.png">
 
 - BEM
-  <img width="457" alt="3" src="https://user-images.githubusercontent.com/100898963/226175682-4a70fe62-750f-4c22-96c9-69ab7ee824b7.png">
+<img width="457" alt="3" src="https://user-images.githubusercontent.com/100898963/226175682-4a70fe62-750f-4c22-96c9-69ab7ee824b7.png">
 
  
 - DPM & Interaksi BEM dan DPM
-  <img width="806" alt="4" src="https://user-images.githubusercontent.com/100898963/226175686-6c509565-093e-482e-8031-67b4755cfdad.png">
+<img width="806" alt="4" src="https://user-images.githubusercontent.com/100898963/226175686-6c509565-093e-482e-8031-67b4755cfdad.png">
 
