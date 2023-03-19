@@ -1,5 +1,5 @@
 # TP1DPBO2023
-> Saya Azzahra Siti Hadjar NIM 2100901 mengerjakan soal Latihan 4
+> Saya Azzahra Siti Hadjar NIM 2100901 mengerjakan soal TP 1
 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
 untuk keberkahanNya maka saya tidak melakukan kecurangan
 seperti yang telah dispesifikasikan. Aamiin. 
