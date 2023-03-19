@@ -79,14 +79,14 @@ seperti yang telah dispesifikasikan. Aamiin. 
       - updateStatus : update status proker 
       
 2. Relasi antar kelas :
-  1. Sivitas is a Human. Mahasiswa dan Dosen is a Sivitas Akademik. Karena mahasiswa dan Dosen adalah sisvitas akademik dan berupa human
-  2. AnggotaBEM, AnggotaDPM, dan AsistenPraktikum is a Mahasiswa karena ketiga class tersebut pasti seorang Mahasiswa
-  3. BEM composite class AnggotaBEM dan ProkerBEM, karena BEM pasti punya list anggota dan list proker
-  4. AnggotaBEM composite class ProkerBEM, karena Anggota BEM dapa memiliki list proker yang diurusi atau di panitiai
-  5. DPM composite class AnggotaDPM, karena DPM pasti punya Anggota
-  6. AnggotaDPM composite class ProkerBEM, karena Anggota DPM dapat memiliki list proker yang di awasi
-  7. Asisten composite class MataKuliah, karena Asisten dapat memiliki list Mata Kuliah Praktikum yang di ajari
-  8. Dosen composite class MataKuliah, karena Dosen dapat memiliki list Mata Kuliah Praktikum yang di ajari
+   - Sivitas is a Human. Mahasiswa dan Dosen is a Sivitas Akademik. Karena mahasiswa dan Dosen adalah sisvitas akademik dan berupa human
+   - AnggotaBEM, AnggotaDPM, dan AsistenPraktikum is a Mahasiswa karena ketiga class tersebut pasti seorang Mahasiswa
+   - BEM composite class AnggotaBEM dan ProkerBEM, karena BEM pasti punya list anggota dan list proker
+   - AnggotaBEM composite class ProkerBEM, karena Anggota BEM dapa memiliki list proker yang diurusi atau di panitiai
+   - DPM composite class AnggotaDPM, karena DPM pasti punya Anggota
+   - AnggotaDPM composite class ProkerBEM, karena Anggota DPM dapat memiliki list proker yang di awasi
+   - Asisten composite class MataKuliah, karena Asisten dapat memiliki list Mata Kuliah Praktikum yang di ajari
+   - Dosen composite class MataKuliah, karena Dosen dapat memiliki list Mata Kuliah Praktikum yang di ajari
 
 ## Alur Program
   - Program ini memakai hardcode sebagai input nya.
